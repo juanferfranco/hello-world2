@@ -1,2 +1,2 @@
 # Hello World test
-Ready, for testing only
+Ready, for testing only.
